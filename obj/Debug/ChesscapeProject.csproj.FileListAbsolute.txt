@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\obj\Debug\ChesscapeProject.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\obj\Debug\ChesscapeProject.Properties.Resources.resources
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\obj\Debug\ChesscapeProject.csproj.GenerateResource.cache
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\obj\Debug\ChesscapeProject.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\bin\Debug\ChesscapeProject.exe.config
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\bin\Debug\ChesscapeProject.exe
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\bin\Debug\ChesscapeProject.pdb
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\obj\Debug\ChesscapeProject.Menu.resources
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\obj\Debug\ChesscapeProject.exe
+C:\Users\david\Desktop\se\ФИНКИ\Визуелно програмирање\ChesscapeProject\ChesscapeProject\obj\Debug\ChesscapeProject.pdb
